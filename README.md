@@ -2,7 +2,7 @@
 
 This tool is maintained as [`bio_evidence.embedding_drift`](https://github.com/aarnavbhat23/bio-evidence/blob/main/src/bio_evidence/embedding_drift.py) in [bio-evidence](https://github.com/aarnavbhat23/bio-evidence). The package has one API, one test suite and worked public-data cases.
 
-This repository is archived to keep prior commits and results inspectable. Its original standalone documentation is below.
+This repository is unarchived and retains the original standalone prototype, commits and results. The consolidated implementation and worked public-data cases are maintained in bio-evidence. The original standalone documentation is below.
 
 ---
 
