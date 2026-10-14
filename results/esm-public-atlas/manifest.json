@@ -1,0 +1,19 @@
+{
+  "model": "facebook/esm2_t6_8M_UR50D",
+  "revision": "c731040fcd8d73dceaa04b0a8e6329b345b0f5df",
+  "source": "https://raw.githubusercontent.com/aarnavbhat23/amp-top100-atlas/ae676872b0aff1e6713bd3188f8cc51fd7cca651/top100_audit.csv",
+  "source_commit": "ae676872b0aff1e6713bd3188f8cc51fd7cca651",
+  "source_sha256": "b412c75c3bca04aacdfd2fae45ff0289ee26b92f87fe054330bc517f95406c08",
+  "n_sequences": 100,
+  "reference": "composition",
+  "candidate": "final-layer residue mean excluding special tokens and padding",
+  "device": "cpu",
+  "batch_size": 16,
+  "inference_wall_seconds": 0.14768812526017427,
+  "python": "3.13.5",
+  "torch": "2.14.1",
+  "transformers": "5.19.0",
+  "numpy": "2.4.4",
+  "seed": 0,
+  "interpretation": "This candidate-selected set has no experimental family/activity labels. Neighbor change does not establish that ESM is better. Timing excludes weight load and includes tokenization, pooling and CPU transfer; not a standardized serving benchmark."
+}

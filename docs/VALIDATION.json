@@ -1,0 +1,6 @@
+{
+  "project": "protein-neighbor-drift",
+  "tests": 8,
+  "passed": true,
+  "demo_exit_code": 0
+}
